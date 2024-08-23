@@ -43,4 +43,4 @@ This test is only a basic regression test for creating and deleting services on 
 
 The whole test process is creating a gateway servive, creating a route with the new creating gateway, deleting this route and then deleting this gateway.
 
-Also, the whole test uses POM and cucumber, we can see each test step explaination in cypress. I added some validation about the error message with wrong url or route and deleting message.
+Also, the whole test uses POM and cucumber, we can see each test step explaination in cypress. I added some validations about the error message with wrong url or route and deleting message.
